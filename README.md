@@ -20,4 +20,8 @@ Leetcode journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/priyanshuji045-cell/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/priyanshuji045-cell/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
